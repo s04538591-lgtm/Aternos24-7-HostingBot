@@ -6,8 +6,8 @@
     "type": "offline"
   },
   "server": {
-    "ip": "ricoiscool.aternos.me",
-    "port": 56559,
+    "ip": "Dr_Reaper.aternos.me:50630",
+    "port": 50630,
     "version": "1.21.1"
   },
   "position": {
